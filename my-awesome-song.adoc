@@ -9,3 +9,11 @@ Once i file a bug in Jira
 Six seven eigth nine ten
 
 Then I deleted it again
+
+Why did you deleted it?
+
+Becasue it cann't be reproduced
+
+What if it happened again?
+
+Then I will file it again.
