@@ -1,6 +1,6 @@
 = Once I Caught A Bug
 Kustian <kustian@mitrais.com>
-:revnumber: 1.x
+:revnumber: 1.0
 
 One two three four five
 
